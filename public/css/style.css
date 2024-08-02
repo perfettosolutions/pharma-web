@@ -1,0 +1,268 @@
+        .card-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+
+        .card {
+            flex: 1;
+            padding: 20px;
+            margin: 0 10px;
+            text-align: center;
+            color: white;
+            border-radius: 10px;
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .card-approvals {
+            background-color: #607d8b;
+            /* Custom color for Approvals */
+        }
+
+        .card-products {
+            background-color: #ff7043;
+            /* Custom color for Products */
+        }
+
+        .card-gallery {
+            background-color: #4caf50;
+            /* Custom color for Gallery */
+        }
+
+        .card .icon {
+            font-size: 50px;
+            margin-bottom: 15px;
+        }
+
+        .card .title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .card .view-more {
+            font-size: 16px;
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+        }
+
+        .card .view-more:hover {
+            color: white;
+        }
+
+        .home-testimonial {
+            background-color: #231834;
+            height: 380px
+        }
+
+        .home-testimonial-bottom {
+            background-color: #f8f8f8;
+            transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+            margin-top: 20px;
+            margin-bottom: 0px;
+            position: relative;
+            height: 130px;
+            top: 190px
+        }
+
+        .home-testimonial h3 {
+            color: var(--orange);
+            font-size: 14px;
+            font-weight: 500;
+            text-transform: uppercase
+        }
+
+        .home-testimonial h2 {
+            color: white;
+            font-size: 28px;
+            font-weight: 700
+        }
+
+        .testimonial-inner {
+            position: relative;
+            top: -174px
+        }
+
+        .testimonial-pos {
+            position: relative;
+            top: 24px
+        }
+
+        .testimonial-inner .tour-desc {
+            border-radius: 5px;
+            padding: 40px
+        }
+
+        .color-grey-3 {
+            font-family: "Montserrat", Sans-serif;
+            font-size: 14px;
+            color: #6c83a2
+        }
+
+        .testimonial-inner img.tm-people {
+            width: 60px;
+            height: 60px;
+            -webkit-border-radius: 50%;
+            border-radius: 50%;
+            -o-object-fit: cover;
+            object-fit: cover;
+            max-width: none
+        }
+
+        .link-name {
+            font-family: "Montserrat", Sans-serif;
+            font-size: 14px;
+            color: #6c83a2
+        }
+
+        .link-position {
+            font-family: "Montserrat", Sans-serif;
+            font-size: 12px;
+            color: #6c83a2
+        }
+
+        .footer {
+            background-color: #85181D;
+            color: white;
+            padding-top: 40px;
+        }
+
+        .footer h3,
+        .footer h4 {
+            color: white;
+        }
+
+        .footer .social-icons a {
+            color: white;
+            margin: 0 10px;
+            font-size: 1.5rem;
+        }
+
+        .footer .social-icons a:hover {
+            color: #ffd54f;
+        }
+
+        .footer .footer-bottom {
+            background: #85181D;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .footer .footer-bottom a {
+
+            text-decoration: none;
+        }
+
+        .footer .footer-bottom a:hover {
+            text-decoration: none;
+        }
+
+        .footer .footer-certificates img {
+            width: 100px;
+            margin: 10px;
+        }
+
+        .footer .more-about-us {
+            /* background: #fb8c00; */
+            border: 1px solid #ffffff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+
+        .footer .more-about-us:hover {
+            background: #ffffff;
+            color: #85181D;
+        }
+
+
+        .parallax {
+            position: relative;
+            min-height: 300px;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .parallax::before {
+            content: "";
+            background-image: url("../img/banner-multi.png");
+            opacity: 0.8;
+            /* Adjust the opacity value as needed */
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: -1;
+            /* Ensure the pseudo-element is behind the content */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .card {
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-body {
+            padding: 20px;
+        }
+
+        .btn-primary {
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+        .text-dark {
+            color: #343a40 !important;
+        }
+
+        .breadcrumb {
+            background-image: url("../img/banner-multi.png");
+            height: 170px;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: white;
+            font-size: 28px;
+            font-weight: 700;
+            align-items: center;
+            justify-content: center;
+
+        }
+
+        .topbar {
+            width: 100%;
+            font-size: medium;
+        }
+
+        h2 {
+            color: #85181D;
+        }
+
+        .topbar h1 {
+            padding-top: 20px;
+            color: #85181D;
+            margin-bottom: 0px;
+            font-size: 33px;
+            line-height: 18px;
+            font-weight: 700;
+            font-family: 'Brush Script MT', cursive;
+            word-spacing: 7px;
+        }
