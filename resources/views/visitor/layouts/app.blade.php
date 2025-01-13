@@ -289,8 +289,8 @@
 
         </div>
         <div class="footer-bottom">
-            <p>Copyright © 2024 All Rights Reserved | Develop by - <a href="https://flipcodesolutions.com/"
-                    target="_blank" class="text-white">Flipcode
+            <p>Copyright © {{ date('Y') }} All Rights Reserved | Develop by - <a
+                    href="https://flipcodesolutions.com/" target="_blank" class="text-white">Flipcode
                     solutions</a>
             </p>
         </div>

@@ -1,367 +1,417 @@
 {
     "products": [
-        {
-            "id": 1,
-            "title": "Acipac SP",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Acipac-SP.pdf"
-        },
-        {
-            "id": 2,
-            "title": "Acipac TP",
-            "image": "img/noimg.png",
-            "pdf": "pdf/AcipacTP.pdf"
-        },
-        {
-            "id": 3,
-            "title": "Algaheal Tab",
-            "image": "img/noimg.png",
-            "pdf": "pdf/AlgahealTab.pdf"
-        },
-        {
-            "id": 4,
-            "title": "Argirac-Plus",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Argirac-Plus.pdf"
-        },
-        {
-            "id": 5,
-            "title": "Atora-40",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Atora-40.pdf"
-        },
-        {
-            "id": 6,
-            "title": "CALCIRAC-P",
-            "image": "img/noimg.png",
-            "pdf": "pdf/CALCIRAC-P.pdf"
-        },
-        {
-            "id": 7,
-            "title": "Calpri-D3 Capsule",
-            "image": "img/noimg.png",
-            "pdf": "pdf/.Calpri-D3 Capsule.pdf"
-        },
-        {
-            "id": 8,
-            "title": "Candracal-Max",
-            "image": "img/noimg.png",
-            "pdf": "pdf/.Candracal-Max.pdf"
-        },
-        {
-            "id": 9,
-            "title": "Canra-QN",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Canra-QN.pdf"
-        },
-
-        {
-            "id": 10,
-            "title": "CANRACEF",
-            "image": "img/noimg.png",
-            "pdf": "pdf/CANRACEF.pdf"
-        },
-
-        {
-            "id": 11,
-            "title": "Canraflex",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Canraflex.pdf"
-        },
-        {
-            "id": 12,
-            "title": "Canramox-CV 625",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Canramox-CV 625.pdf"
-        },
-        {
-            "id": 13,
-            "title": "Carnit-E (1)",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Carnit-E (1).pdf"
-        },
-        {
-            "id": 14,
-            "title": "Carnit-E",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Carnit-E.pdf"
-        },
-        {
-            "id": 15,
-            "title": "Ceftirac 1 gm",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Ceftirac 1 gm.pdf"
-        },
-
-        {
-            "id": 16,
-            "title": "CEFTIRAC 1.5",
-            "image": "img/noimg.png",
-            "pdf": "pdf/CEFTIRAC 1.5.pdf"
-        },
-        {
-            "id": 17,
-            "title": "Cintorac  Tab",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Cintorac  Tab.pdf"
-        },
-        {
-            "id": 18,
-            "title": "Cognirac Syrup",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Cognirac Syrup.pdf"
-        },
-        {
-            "id": 19,
-            "title": "DEBRIRAC ONT",
-            "image": "img/noimg.png",
-            "pdf": "pdf/DEBRIRAC ONT.pdf"
-        },
-        {
-            "id": 20,
-            "title": "Defrai 6",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Defrai 6.pdf"
-        },
-        {
-            "id": 21,
-            "title": "ESOCAN -40 INJ",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Defrai 6.pdf"
-        },
-        {
-            "id": 22,
-            "title": "FERO 300",
-            "image": "img/noimg.png",
-            "pdf": "pdf/FERO 300.pdf"
-        },
-        {
-            "id": 23,
-            "title": "Flex-O-Fast",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Flex-O-Fast.pdf"
-        },
-        {
-            "id": 24,
-            "title": "Flexi-Nem",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Flexi-Nem.pdf"
-        },
-        {
-            "id": 25,
-            "title": "Folitura",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Folitura.pdf"
-        },
-        {
-            "id": 26,
-            "title": "FRONT",
-            "image": "img/noimg.png",
-            "pdf": "pdf/FRONT.pdf"
-        },
-        {
-            "id": 27,
-            "title": "Glimrac M1or M2",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Glimrac M1or M2.pdf"
-        },
-        {
-            "id": 28,
-            "title": "Hyplex Forte",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Hyplex Forte.pdf"
-        },
-        {
-            "id": 29,
-            "title": "Ipride",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Ipride.pdf"
-        },
-        {
-            "id": 30,
-            "title": "Levorac-25",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Levorac-25.pdf"
-        },
-        {
-            "id": 31,
-            "title": "Limont Tab",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Levorac-25.pdf"
-        },
-        {
-            "id": 32,
-            "title": "Lutace-Fm",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Lutace-Fm.pdf"
-        },
-        {
-            "id": 33,
-            "title": "Magcal-Forte",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Magcal-Forte.pdf"
-        },
-        {
-            "id": 34,
-            "title": "Maxtotal",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Maxtotal.pdf"
-        },
-        {
-            "id": 35,
-            "title": "MC-Heal",
-            "image": "img/noimg.png",
-            "pdf": "pdf/MC-Heal.pdf"
-        },
-        {
-            "id": 36,
-            "title": "Melanid",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Melanid.pdf"
-        },
-        {
-            "id": 37,
-            "title": "Novorac-Q 10 new",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Novorac-Q 10 new.pdf"
-        },
-        {
-            "id": 38,
-            "title": "PIPTARAC",
-            "image": "img/noimg.png",
-            "pdf": "pdf/PIPTARAC.pdf"
-        },
-        {
-            "id": 39,
-            "title": "Polyrac-LC",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Polyrac-LC.pdf"
-        },
-        {
-            "id": 40,
-            "title": "Povirac Solution 10%",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Povirac Solution 10%.pdf"
-        },
-        {
-            "id": 41,
-            "title": "Pribone-CL",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Pribone-CL.pdf"
-        },
-        {
-            "id": 42,
-            "title": "Pribone-CQ",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Pribone-CQ.pdf"
-        },
-        {
-            "id": 43,
-            "title": "Pribone-k27",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Pribone-k27.pdf"
-        },
-        {
-            "id": 44,
-            "title": "Pribone-Plus",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Pribone-Plus.pdf"
-        },
-        {
-            "id": 45,
-            "title": "PRILAC-CAP",
-            "image": "img/noimg.png",
-            "pdf": "pdf/PRILAC-CAP.pdf"
-        },
-        {
-            "id": 46,
-            "title": "Protomix",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Protomix.pdf"
-        },
-        {
-            "id": 47,
-            "title": "RABLAC DSR",
-            "image": "img/noimg.png",
-            "pdf": "pdf/RABLAC DSR.pdf"
-        },
-        {
-            "id": 48,
-            "title": "Racvest Tab",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Racvest Tab.pdf"
-        },
-        {
-            "id": 49,
-            "title": "RACVIT PLUS",
-            "image": "img/noimg.png",
-            "pdf": "pdf/RACVIT PLUS.pdf"
-        },
-        {
-            "id": 50,
-            "title": "Racvit Syp",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Racvit Syp.pdf"
-        },
-        {
-            "id": 51,
-            "title": "Rafer-HM",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Rafer-HM.pdf"
-        },
-        {
-            "id": 52,
-            "title": "RAFER-XT",
-            "image": "img/noimg.png",
-            "pdf": "pdf/RAFER-XT.pdf"
-        },
-        {
-            "id": 53,
-            "title": "RC-CET-10",
-            "image": "img/noimg.png",
-            "pdf": "pdf/RC-CET-10.pdf"
-        },
-        {
-            "id": 54,
-            "title": "SUCLAR-O",
-            "image": "img/noimg.png",
-            "pdf": "pdf/SUCLAR-O.pdf"
-        },
-        {
-            "id": 55,
-            "title": "TELMIT AM",
-            "image": "img/noimg.png",
-            "pdf": "pdf/TELMIT AM.pdf"
-        },
-        {
-            "id": 56,
-            "title": "Tendocan",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Tendocan.pdf"
-        },
-        {
-            "id": 57,
-            "title": "Theajoy",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Theajoy.pdf"
-        },
-        {
-            "id": 58,
-            "title": "Truhep Syp",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Truhep Syp.pdf"
-        },
-        {
-            "id": 59,
-            "title": "UDH-300",
-            "image": "img/noimg.png",
-            "pdf": "pdf/UDH-300.pdf"
-        },
-        {
-            "id": 60,
-            "title": "Vilda-M",
-            "image": "img/noimg.png",
-            "pdf": "pdf/Vilda-M.pdf"
-        }
-    ]
+    {
+        "id": 1,
+        "title": "Acipac SP",
+        "image": "img/noimg.png",
+        "content": "Aceclofenac 100 mg, Serratiopeptidase 15 mg, Paracetamol 325 mg",
+        "pdf": "Acipac-SP.pdf"
+    },
+    {
+        "id": 2,
+        "title": "Acipac-MR",
+        "image": "img/noimg.png",
+        "content": "Aceclofenac 100 mg, Chlorzoxazone 250 mg, Paracetamol 325 mg",
+        "pdf": "Acipac-SP.pdf"
+    },
+    {
+        "id": 3,
+        "title": "Acipac P",
+        "image": "img/noimg.png",
+        "content": "Aceclofenac 100 mg, Paracetamol 325 mg",
+        "pdf": "Acipac-SP.pdf"
+    },
+    {
+        "id": 4,
+        "title": "Acipac TP",
+        "image": "img/noimg.png",
+        "content": "Aceclofenac 100 mg, Paracetamol 325 mg, Thiocolchicoside 4 mg",
+        "pdf": "Acipac-TP.pdf"
+    },{
+        "id": 5,
+        "title": "Alga Heal",
+        "image": "img/noimg.png",
+        "content": "Cissus Quandragularis Linn Extract (Hadjod) 750 mg, Withania Somnifera Extract (Ashwagandha) 100 mg, Algas Calcareas 200 mg (Calcium Mineral Complex)",
+        "pdf": "AlgahealTab.pdf"
+    },
+    {
+        "id": 6,
+        "title": "Argirac-Plus",
+        "image": "img/noimg.png",
+        "content": "L-Arginine 3 gm, Lycopene 4 mg, DHA 200 mg, Proanthocyanidins 75 mg, L-Methylfolate 12.5 mg, Zinc 5 mg",
+        "pdf": "Argirac-Plus.pdf"
+    },
+    {
+        "id": 7,
+        "title": "Atora-40",
+        "image": "img/noimg.png",
+        "content": "Atorvastatin Calcium 40 mg",
+        "pdf": "Atora-40.pdf"
+    },
+    {
+        "id": 8,
+        "title": "CALCIRAC-P",
+        "image": "img/noimg.png",
+        "content": "Calcium Phosphate 774 mg eq. to elemental Calcium 300 mg, Suspension eq. to elemental Phosphorous 150 mg, Magnesium Oxide eq. to elemental Magnesium 75 mg, Zinc Gluconate 4 mg, Vitamin D3 200 IU",
+        "pdf": "CALCIRAC-P.pdf"
+    },
+    {
+        "id": 9,
+        "title": "Calpri-D3",
+        "image": "img/noimg.png",
+        "content": "Cholecalciferol 60000 I.U.",
+        "pdf": "Calpri-D3 Capsule.pdf"
+    },{
+        "id": 10,
+        "title": "Candracal-Max",
+        "image": "img/noimg.png",
+        "content": "Kukutandatwak Bhasma A.S.S. 250 mg, Praval Pisti A.S.S. 200 mg, Hadjod Extract (Stem) (Cissus Quadrangularis) A.B. 50 mg",
+        "pdf": "Candracal-Max.pdf"
+    },
+    {
+        "id": 11,
+        "title": "CANRA-QN",
+        "image": "img/noimg.png",
+        "content": "Ubiquinol (Coenzyme Q10) 100 mg, Astaxanthin 8 mg, N-Acetyl Cysteine 100 mg, L-Carnitine L-Tartrate 100 mg, Folic Acid 1.5 mg, Lycopene 5000 mcg, Sodium Selenite 70 mcg, Zinc Ascorbate 5 mg",
+        "pdf": "Canra-QN.pdf"
+    },
+    {
+        "id": 12,
+        "title": "CANRACEF",
+        "image": "img/noimg.png",
+        "content": "Cefixime 200 mg",
+        "pdf": "CANRACEF.pdf"
+    },
+    {
+        "id": 13,
+        "title": "Canramox-CV 625",
+        "image": "img/noimg.png",
+        "content": "Amoxycillin Trihydrate 500 mg",
+        "pdf": "Canramox-CV 625.pdf"
+    },
+    {
+        "id": 14,
+        "title": "CARNIT-E",
+        "image": "img/noimg.png",
+        "content": "L-Carnitine 300 mg, Vitamin E 100 IU",
+        "pdf": "Carnit-E.pdf"
+    },
+    {
+        "id": 15,
+        "title": "Ceftirac 1gm",
+        "image": "img/noimg.png",
+        "content": "Ceftriaxone 1 gm",
+        "pdf": "Ceftirac 1 gm.pdf"
+    },
+    {
+        "id": 16,
+        "title": "Ceftirac 1.5",
+        "image": "img/noimg.png",
+        "content": "Sterile Ceftriaxone Sodium eq. to anhydrous Ceftriaxone 1000 mg, Sterile Sulbactam Sodium eq. to Anhydrous Sulbactam 500 mg",
+        "pdf": "CEFTIRAC 1.5.pdf"
+    },
+    {
+        "id": 17,
+        "title": "CINTORAC",
+        "image": "img/noimg.png",
+        "content": "Pantoprazole Sodium 40 mg, Cinitapride Hydrogen Tartrate 3 mg",
+        "pdf": "Cintorac Tab.pdf"
+    },  {
+        "id": 18,
+        "title": "Cognirac Syrup",
+        "image": "img/noimg.png",
+        "content": "L-Carnosine 100 mg, DHA 75 mg, Co Q10 20 mg, Ginkgo Biloba 15 mg, Vitamin B1, Vitamin B6, Vitamin B12 2.2 mcg, Niacinamide 18 mg, D-Panthenol 5 mg, Zinc 10 mg, Selenium 20 mcg",
+        "pdf": "Cognirac Syrup.pdf"
+    },
+    {
+        "id": 19,
+        "title": "Debrirac Ointment",
+        "image": "img/noimg.png",
+        "content": "Papain 521700 Units of activity, Urea 100 mg",
+        "pdf": "DEBRIRAC ONT.pdf"
+    },
+    {
+        "id": 20,
+        "title": "DEFRAI-6",
+        "image": "img/noimg.png",
+        "content": "Deflazacort 6 mg / 12 mg",
+        "pdf": "Defrai 6.pdf"
+    },
+    {
+        "id": 21,
+        "title": "DEFRAI-24",
+        "image": "img/noimg.png",
+        "content": "Deflazacort 24 mg",
+        "pdf": "Defrai 6.pdf"
+    },
+    {
+        "id": 22,
+        "title": "ESOCAN-40",
+        "image": "img/noimg.png",
+        "content": "Esomeprazole Sodium 40 mg",
+        "pdf": "ESOCAN -40 INJ.pdf"
+    },
+    {
+        "id": 23,
+        "title": "FERO 300",
+        "image": "img/noimg.png",
+        "content": "Faropenem 300 mg",
+        "pdf": "FERO 300.pdf"
+    },
+    {
+        "id": 24,
+        "title": "Flex-O-Fast",
+        "image": "img/noimg.png",
+        "content": "Collagen Peptide, Type 1,2,3,9,10,12 (blend) 300 mg, Ginger Extract 100 mg, Curcumin 95% 100 mg, Vitamin E 10% 60 mg, Ascorbic Acid 40 mg, Sodium Hyaluronate 30 mg, Vitamin D3 400 IU",
+        "pdf": "Flex-O-Fast.pdf"
+    },
+    {
+        "id": 25,
+        "title": "Flexi-Nem",
+        "image": "img/noimg.png",
+        "content": "Boswellia serrata extract, Rosehip, Ginger, Curcumin",
+        "pdf": "Flexi-Nem.pdf"
+    }, {
+        "id": 26,
+        "title": "Folitura Kit",
+        "image": "img/noimg.png",
+        "content": "L-Arginine 50 mg, L-Cysteine 50 mg, DL-Methionine 40 mg, L-Lysine Hcl 20 mg, Niacinamide 12 mg, Zinc 10 mg, Inositol 10 mg, Iron 10 mg, Calcium Pantothenate 5 mg, Copper 1.7 mg, Selenium 40 mcg, Biotin 30 mcg",
+        "pdf": "Folitura.pdf"
+    },
+    {
+        "id": 27,
+        "title": "Glimrac",
+        "image": "img/noimg.png",
+        "content": "Glimepiride 1mg/2mg, Metformin 500mg (SR)",
+        "pdf": "Glimrac M1or M2.pdf"
+    },
+    {
+        "id": 28,
+        "title": "Hyplex Forte",
+        "image": "img/noimg.png",
+        "content": "Glycyrrhiza Glabra, Mixed Carotenoids, Piperine, DHA, Curcuma Longa, Inositol & Lutein Tablet",
+        "pdf": "Hyplex Forte.pdf"
+    },
+    {
+        "id": 29,
+        "title": "IPRIDE",
+        "image": "img/noimg.png",
+        "content": "Rabeprazole Sodium 20 mg, Itopride Hcl 150 mg",
+        "pdf": "Ipride.pdf"
+    },
+    {
+        "id": 30,
+        "title": "Levorac-25",
+        "image": "img/noimg.png",
+        "content": "Levosulpiride 25 mg",
+        "pdf": "Levorac-25.pdf"
+    },
+    {
+        "id": 31,
+        "title": "Limont",
+        "image": "img/noimg.png",
+        "content": "Montelukast 10 mg, Levocetrizine 5 mg",
+        "pdf": "Limont Tab.pdf"
+    },
+    {
+        "id": 32,
+        "title": "Lutace-FM",
+        "image": "img/noimg.png",
+        "content": "Lycopene 10% 10 mg, Lutein 10 mg, Astaxanthin 1 mg, Zeaxanthin 2 mg, Cyanocobalamin 1.0 mcg, Vitamin C 40 mg, Vitamin E 200 IU, Zinc 10 mg, Copper 0.5 mg, Selenium 40 mcg",
+        "pdf": "Lutace-Fm.pdf"
+    },
+      {
+        "id": 33,
+        "title": "Magcal-Forte",
+        "image": "img/noimg.png",
+        "content": "Magnesium Oxide 400 mg, Folic Acid 3 mg, Methylcobalamin 1500 mcg, Vitamin D3 1000 IU, Vitamin K27 45 mcg, Calcitriol 0.25 mcg",
+        "pdf": "Magcal-Forte.pdf"
+    },
+    {
+        "id": 34,
+        "title": "MAXTOTAL Softgel Capsules",
+        "image": "img/noimg.png",
+        "content": "Omega-3 fatty Acid, Green Tea Extract, Ginkgo Biloba Extract, Ginseng Extract, Grape Seed Extract, Multimineral, Multivitamin with Antioxidants & Trace Element",
+        "pdf": "Maxtotal.pdf"
+    },
+    {
+        "id": 35,
+        "title": "MC-Heal Softgel Capsule",
+        "image": "img/noimg.png",
+        "content": "Baiclaensis and Acacia Catechu 250 mg, Glucosamine Sulphate 500 mg, Chondroitin Sulphate 100 mg, Methylsulfonylmethane 250 mg, Vitamin D3 400 IU",
+        "pdf": "MC-Heal.pdf"
+    },
+    {
+        "id": 36,
+        "title": "Melanid Syrup",
+        "image": "img/noimg.png",
+        "content": "Melatonin 3 mg",
+        "pdf": "Melanid.pdf"
+    },
+    {
+        "id": 37,
+        "title": "Novorac-Q10",
+        "image": "img/noimg.png",
+        "content": "Dehydroepiandrosterone & Reduced Coenzyme Q10",
+        "pdf": "Novorac-Q 10 new.pdf"
+    },
+    {
+        "id": 38,
+        "title": "PIPTARAC Injection",
+        "image": "img/noimg.png",
+        "content": "Piperacillin Sodium 4 g, Tazobactam Sodium 0.5 g",
+        "pdf": "PIPTARAC.pdf"
+    },
+    {
+        "id": 39,
+        "title": "Polyrac-LC",
+        "image": "img/noimg.png",
+        "content": "Pyridoxine Hcl 0.75 mg, Nicotinamide 15 mg, Cyanocobalamin 2 mcg, Lysine Hydrochloride 375 mg, Sorbitol Solution 70% (Non Crystallizing)",
+        "pdf": "Polyrac-LC.pdf"
+    }, {
+        "id": 40,
+        "title": "Povirac Solution Lotion",
+        "image": "img/noimg.png",
+        "content": "Povidine Iodine 10%",
+        "pdf": "Povirac Solution 10%.pdf"
+    },
+    {
+        "id": 41,
+        "title": "Pribone-CL",
+        "image": "img/noimg.png",
+        "content": "Coral Calcium 500 mg, Vitamin D3 400 IU",
+        "pdf": "Pribone-CL.pdf"
+    },
+    {
+        "id": 42,
+        "title": "Pribone-CQ",
+        "image": "img/noimg.png",
+        "content": "Cissus Quandrangularis 500 mg, Calcium Carbonate 500 mg, Vitamin K2 (MK-7) 45 mcg",
+        "pdf": "Pribone-CQ.pdf"
+    },
+    {
+        "id": 43,
+        "title": "Pribone-K27",
+        "image": "img/noimg.png",
+        "content": "Calcium Carbonate 625 mg eq. to Softgel Capsules, Elemental Calcium 250 mg, Calcitriol 0.25 mcg, Vitamin K27 0.25 mcg",
+        "pdf": "Pribone-k27.pdf"
+    },
+    {
+        "id": 44,
+        "title": "Pribone-Plus",
+        "image": "img/noimg.png",
+        "content": "Calcitriol 0.25 mcg, Calcium Carbonate 500 mg, Zinc Oxide 7.5 mg, Magnesium Oxide 50 mg, Vitamin K27 45 mcg, Methylcobalmin 1500 mcg, L-Methylfolate 800 mcg",
+        "pdf": "Pribone-Plus.pdf"
+    },
+    {
+        "id": 45,
+        "title": "PRILAC",
+        "image": "img/noimg.png",
+        "content": "Prebiotic & Probiotic",
+        "pdf": "PRILAC-CAP.pdf"
+    },
+    {
+        "id": 46,
+        "title": "Protomix",
+        "image": "img/noimg.png",
+        "content": "Multivitamins, Multiminerals & Antioxidants With Protein",
+        "pdf": "Protomix.pdf"
+    },
+    {
+        "id": 47,
+        "title": "RABLAC-DSR",
+        "image": "img/noimg.png",
+        "content": "Rabeprazole Sodium (As enteric coated pellets) 20 mg, Domperidone (As Sustained Release pellets) 30 mg",
+        "pdf": "RABLAC DSR.pdf"
+    },  {
+        "id": 48,
+        "title": "Racvest",
+        "image": "img/noimg.png",
+        "content": "Baiclaensis and Acacia Catechu 250 mg, Glucosamine Sulphate 500 mg, Chondroitin Sulphate 100 mg, Methylsulfonylmethane 250 mg, Vitamin D3 400 IU",
+        "pdf": "Racvest Tab.pdf"
+    },
+    {
+        "id": 49,
+        "title": "RACVIT PLUS",
+        "image": "img/noimg.png",
+        "content": "Multivitamine, Minerals, Antioxidants",
+        "pdf": "RACVIT PLUS.pdf"
+    },
+    {
+        "id": 50,
+        "title": "RacvitB-Complex",
+        "image": "img/noimg.png",
+        "content": "Vitamin B1 1.4 mg, Vitamin B2 1.6 mg, Vitamin B3 18 mg, Vitamin B5 5 mg, Vitamin B6 1.5 mg, Vitamin B12 1 mcg, Folic Acid 11.5 mcg",
+        "pdf": "Racvit Syp.pdf"
+    },
+    {
+        "id": 51,
+        "title": "RAFER-HM Tablets",
+        "image": "img/noimg.png",
+        "content": "Heme Iron Polypeptide 12 mg, Folic Acid 300 mcg, Cyanocobalamin 2.2 mcg, Vitamin C 80 mg, Zinc 15 mg",
+        "pdf": "Rafer-HM.pdf"
+    },
+    {
+        "id": 52,
+        "title": "RAFER-XT Tablets",
+        "image": "img/noimg.png",
+        "content": "Ferrous ascorbate tab, Folic acid, Zinc",
+        "pdf": "RAFER-XT.pdf"
+    },
+    {
+        "id": 53,
+        "title": "RC-CET-10 Tablets",
+        "image": "img/noimg.png",
+        "content": "Levocetrizine 10 mg",
+        "pdf": "RC-CET-10.pdf"
+    },
+    {
+        "id": 54,
+        "title": "SUCLAR-O Syrup",
+        "image": "img/noimg.png",
+        "content": "Sucralfate 1 gm, Oxetacaine 20 mg",
+        "pdf": "SUCLAR-O.pdf"
+    }, {
+        "id": 55,
+        "title": "Telmit AM",
+        "image": "img/noimg.png",
+        "content": "Telmisartan 40 mg, Amlodipine 5 mg",
+        "pdf": "TELMIT AM.pdf"
+    },
+    {
+        "id": 56,
+        "title": "TENDOCAN",
+        "image": "img/noimg.png",
+        "content": "Chondroitin Sulfate 200 mg, Collagen peptide Type 1 40 mg, Vitamin C 35 mg, Sodium Hyaluronate 30 mg",
+        "pdf": "Tendocan.pdf"
+    },
+    {
+        "id": 57,
+        "title": "Theajoy",
+        "image": "img/noimg.png",
+        "content": "L-Theanine 100 mg",
+        "pdf": "Theajoy.pdf"
+    },
+    {
+        "id": 58,
+        "title": "Truhep 100 ml syrup",
+        "image": "img/noimg.png",
+        "content": "L-Ornithine-L-Aspartate 250 mg",
+        "pdf": "Truhep Syp.pdf"
+    },
+    {
+        "id": 59,
+        "title": "UDH-300",
+        "image": "img/noimg.png",
+        "content": "Ursodeoxycholic Acid 300 mg",
+        "pdf": "UDH-300.pdf"
+    },
+    {
+        "id": 60,
+        "title": "Vilda-M",
+        "image": "img/noimg.png",
+        "content": "Vildagliptin 50 mg, Metformin 500 mg",
+        "pdf": "Vilda-M.pdf"
+    }
+     ]
 }
