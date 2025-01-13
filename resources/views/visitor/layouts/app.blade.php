@@ -271,8 +271,13 @@
                 <div class="col-md-4">
                     <h4>Contact Us</h4>
                     <p>+91 98 855 83 390 <br />
-                        +91 999 999 9999</p>
-                    <p>admin@admin.com <br />naraharimohan@yahoo.com</p>
+                        {{-- +91 999 999 9999 --}}
+                    </p>
+                    <p>
+                        {{-- admin@admin.com --}}
+                        <br />
+                        naraharimohan@yahoo.com
+                    </p>
                     <p>
                         Address
 
