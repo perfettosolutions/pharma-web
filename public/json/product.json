@@ -1,0 +1,367 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Acipac SP",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Acipac-SP.pdf"
+        },
+        {
+            "id": 2,
+            "title": "Acipac TP",
+            "image": "img/noimg.png",
+            "pdf": "pdf/AcipacTP.pdf"
+        },
+        {
+            "id": 3,
+            "title": "Algaheal Tab",
+            "image": "img/noimg.png",
+            "pdf": "pdf/AlgahealTab.pdf"
+        },
+        {
+            "id": 4,
+            "title": "Argirac-Plus",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Argirac-Plus.pdf"
+        },
+        {
+            "id": 5,
+            "title": "Atora-40",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Atora-40.pdf"
+        },
+        {
+            "id": 6,
+            "title": "CALCIRAC-P",
+            "image": "img/noimg.png",
+            "pdf": "pdf/CALCIRAC-P.pdf"
+        },
+        {
+            "id": 7,
+            "title": "Calpri-D3 Capsule",
+            "image": "img/noimg.png",
+            "pdf": "pdf/.Calpri-D3 Capsule.pdf"
+        },
+        {
+            "id": 8,
+            "title": "Candracal-Max",
+            "image": "img/noimg.png",
+            "pdf": "pdf/.Candracal-Max.pdf"
+        },
+        {
+            "id": 9,
+            "title": "Canra-QN",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Canra-QN.pdf"
+        },
+
+        {
+            "id": 10,
+            "title": "CANRACEF",
+            "image": "img/noimg.png",
+            "pdf": "pdf/CANRACEF.pdf"
+        },
+
+        {
+            "id": 11,
+            "title": "Canraflex",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Canraflex.pdf"
+        },
+        {
+            "id": 12,
+            "title": "Canramox-CV 625",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Canramox-CV 625.pdf"
+        },
+        {
+            "id": 13,
+            "title": "Carnit-E (1)",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Carnit-E (1).pdf"
+        },
+        {
+            "id": 14,
+            "title": "Carnit-E",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Carnit-E.pdf"
+        },
+        {
+            "id": 15,
+            "title": "Ceftirac 1 gm",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Ceftirac 1 gm.pdf"
+        },
+
+        {
+            "id": 16,
+            "title": "CEFTIRAC 1.5",
+            "image": "img/noimg.png",
+            "pdf": "pdf/CEFTIRAC 1.5.pdf"
+        },
+        {
+            "id": 17,
+            "title": "Cintorac  Tab",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Cintorac  Tab.pdf"
+        },
+        {
+            "id": 18,
+            "title": "Cognirac Syrup",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Cognirac Syrup.pdf"
+        },
+        {
+            "id": 19,
+            "title": "DEBRIRAC ONT",
+            "image": "img/noimg.png",
+            "pdf": "pdf/DEBRIRAC ONT.pdf"
+        },
+        {
+            "id": 20,
+            "title": "Defrai 6",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Defrai 6.pdf"
+        },
+        {
+            "id": 21,
+            "title": "ESOCAN -40 INJ",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Defrai 6.pdf"
+        },
+        {
+            "id": 22,
+            "title": "FERO 300",
+            "image": "img/noimg.png",
+            "pdf": "pdf/FERO 300.pdf"
+        },
+        {
+            "id": 23,
+            "title": "Flex-O-Fast",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Flex-O-Fast.pdf"
+        },
+        {
+            "id": 24,
+            "title": "Flexi-Nem",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Flexi-Nem.pdf"
+        },
+        {
+            "id": 25,
+            "title": "Folitura",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Folitura.pdf"
+        },
+        {
+            "id": 26,
+            "title": "FRONT",
+            "image": "img/noimg.png",
+            "pdf": "pdf/FRONT.pdf"
+        },
+        {
+            "id": 27,
+            "title": "Glimrac M1or M2",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Glimrac M1or M2.pdf"
+        },
+        {
+            "id": 28,
+            "title": "Hyplex Forte",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Hyplex Forte.pdf"
+        },
+        {
+            "id": 29,
+            "title": "Ipride",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Ipride.pdf"
+        },
+        {
+            "id": 30,
+            "title": "Levorac-25",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Levorac-25.pdf"
+        },
+        {
+            "id": 31,
+            "title": "Limont Tab",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Levorac-25.pdf"
+        },
+        {
+            "id": 32,
+            "title": "Lutace-Fm",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Lutace-Fm.pdf"
+        },
+        {
+            "id": 33,
+            "title": "Magcal-Forte",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Magcal-Forte.pdf"
+        },
+        {
+            "id": 34,
+            "title": "Maxtotal",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Maxtotal.pdf"
+        },
+        {
+            "id": 35,
+            "title": "MC-Heal",
+            "image": "img/noimg.png",
+            "pdf": "pdf/MC-Heal.pdf"
+        },
+        {
+            "id": 36,
+            "title": "Melanid",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Melanid.pdf"
+        },
+        {
+            "id": 37,
+            "title": "Novorac-Q 10 new",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Novorac-Q 10 new.pdf"
+        },
+        {
+            "id": 38,
+            "title": "PIPTARAC",
+            "image": "img/noimg.png",
+            "pdf": "pdf/PIPTARAC.pdf"
+        },
+        {
+            "id": 39,
+            "title": "Polyrac-LC",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Polyrac-LC.pdf"
+        },
+        {
+            "id": 40,
+            "title": "Povirac Solution 10%",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Povirac Solution 10%.pdf"
+        },
+        {
+            "id": 41,
+            "title": "Pribone-CL",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Pribone-CL.pdf"
+        },
+        {
+            "id": 42,
+            "title": "Pribone-CQ",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Pribone-CQ.pdf"
+        },
+        {
+            "id": 43,
+            "title": "Pribone-k27",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Pribone-k27.pdf"
+        },
+        {
+            "id": 44,
+            "title": "Pribone-Plus",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Pribone-Plus.pdf"
+        },
+        {
+            "id": 45,
+            "title": "PRILAC-CAP",
+            "image": "img/noimg.png",
+            "pdf": "pdf/PRILAC-CAP.pdf"
+        },
+        {
+            "id": 46,
+            "title": "Protomix",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Protomix.pdf"
+        },
+        {
+            "id": 47,
+            "title": "RABLAC DSR",
+            "image": "img/noimg.png",
+            "pdf": "pdf/RABLAC DSR.pdf"
+        },
+        {
+            "id": 48,
+            "title": "Racvest Tab",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Racvest Tab.pdf"
+        },
+        {
+            "id": 49,
+            "title": "RACVIT PLUS",
+            "image": "img/noimg.png",
+            "pdf": "pdf/RACVIT PLUS.pdf"
+        },
+        {
+            "id": 50,
+            "title": "Racvit Syp",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Racvit Syp.pdf"
+        },
+        {
+            "id": 51,
+            "title": "Rafer-HM",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Rafer-HM.pdf"
+        },
+        {
+            "id": 52,
+            "title": "RAFER-XT",
+            "image": "img/noimg.png",
+            "pdf": "pdf/RAFER-XT.pdf"
+        },
+        {
+            "id": 53,
+            "title": "RC-CET-10",
+            "image": "img/noimg.png",
+            "pdf": "pdf/RC-CET-10.pdf"
+        },
+        {
+            "id": 54,
+            "title": "SUCLAR-O",
+            "image": "img/noimg.png",
+            "pdf": "pdf/SUCLAR-O.pdf"
+        },
+        {
+            "id": 55,
+            "title": "TELMIT AM",
+            "image": "img/noimg.png",
+            "pdf": "pdf/TELMIT AM.pdf"
+        },
+        {
+            "id": 56,
+            "title": "Tendocan",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Tendocan.pdf"
+        },
+        {
+            "id": 57,
+            "title": "Theajoy",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Theajoy.pdf"
+        },
+        {
+            "id": 58,
+            "title": "Truhep Syp",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Truhep Syp.pdf"
+        },
+        {
+            "id": 59,
+            "title": "UDH-300",
+            "image": "img/noimg.png",
+            "pdf": "pdf/UDH-300.pdf"
+        },
+        {
+            "id": 60,
+            "title": "Vilda-M",
+            "image": "img/noimg.png",
+            "pdf": "pdf/Vilda-M.pdf"
+        }
+    ]
+}

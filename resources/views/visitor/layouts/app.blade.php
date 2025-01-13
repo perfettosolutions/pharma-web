@@ -4,14 +4,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>RA CANDRA PHARMA || HOME</title>
+    <title>
+        R A Candra Pharma || @yield('title')
+    </title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{asset('css/style.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 
     <style>
-        
         *:before,
         *:after {
             box-sizing: border-box;
@@ -177,7 +178,15 @@
                 box-shadow: 0 0 0 0 #333, 0 0 0 0 rgba(51, 51, 51, 0);
             }
         }
+
+        /* Hide the promoting section on screens smaller than 768px */
+        @media (max-width: 767px) {
+            .promoting-section {
+                display: none;
+            }
+        }
     </style>
+
 </head>
 
 <body>
@@ -187,7 +196,7 @@
                 <div class="col-md-6">
                     <img src="img/RA_CANDRA_PHARMA_LOGO.png" alt="" width="150">
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 promoting-section">
                     <h1>Promoting Healthy Lifestyle...</h1>
                 </div>
             </div>
@@ -203,23 +212,26 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active text-white" aria-current="page" href="{{route('home')}}">Home</a>
+                        <a class="nav-link active text-white" aria-current="page" href="{{ route('home') }}">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="{{route('production')}}">Production</a>
+                        <a class="nav-link text-white" href="{{ route('production') }}">Production</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="{{route('profile')}}">Company profile</a>
+                        <a class="nav-link text-white" href="{{ route('product') }}">Product </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="{{route('contact')}}">Contact</a>
+                        <a class="nav-link text-white" href="{{ route('profile') }}">Company profile</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="{{ route('contact') }}">Contact</a>
                     </li>
 
                 </ul>
             </div>
         </div>
     </nav>
-   @yield('content')
+    @yield('content')
 
     <!-- footer -->
     <footer class="footer">
@@ -258,39 +270,35 @@
                 </div>
                 <div class="col-md-4">
                     <h4>Contact Us</h4>
-                    <p>+91 999 999 9999</p>
-                    <p>+91 999 999 9999</p>
-                    <p>admin@admin.com</p>
-                    <p>admin@gmail.com</p>
+                    <p>+91 98 855 83 390 <br />
+                        +91 999 999 9999</p>
+                    <p>admin@admin.com <br />naraharimohan@yahoo.com</p>
                     <p>
-                        address
+                        Address
 
                     </p>
                     <p>
-                        line 1,
+
+                        10, XCELON INDUSTRIAL PARK-1,<br /> BEHIND INTAS PHARMA,<br /> VASNA-CHACHARWADI,
+                        <br />AHMEDABAD - 382213
 
                     </p>
-                    <p>
-                        line 2
 
-                    </p>
-                    <p>
-                        line 3
-                    </p>
                 </div>
             </div>
 
         </div>
         <div class="footer-bottom">
-            <p>Copyright © 2024 All Rights Reserved | Develop by - <a href="#" class="text-white">Flipcode
+            <p>Copyright © 2024 All Rights Reserved | Develop by - <a href="https://flipcodesolutions.com/"
+                    target="_blank" class="text-white">Flipcode
                     solutions</a>
             </p>
         </div>
     </footer>
     <!-- footer -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-        crossorigin="anonymous"></script>
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+    </script>
     <script>
         // Initialize the carousel
         const testimonialCarousel = new bootstrap.Carousel('#testimonialCarousel', {
@@ -299,7 +307,7 @@
         });
     </script>
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener('DOMContentLoaded', function() {
             var myModal = new bootstrap.Modal(document.getElementById('myModal'), {
                 keyboard: false
             });

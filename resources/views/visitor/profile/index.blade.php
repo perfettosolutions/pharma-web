@@ -1,4 +1,5 @@
 @extends('visitor.layouts.app')
+@section('title', 'Company profile')
 @section('content')
     <div class="breadcrumb">
         <h3>Company profile</h3>
@@ -44,7 +45,7 @@
 
             </div>
             <div class="col-md-5 pt-5">
-                <div class="image-box" style="background-color: #DC3545; padding: 20px; border-radius: 5px;">
+                <div class="image-box" style="background-color: #85181D; padding: 20px; border-radius: 5px;">
                     <img src="{{asset('img/25.jpg')}}" class="img-fluid" alt="">
                 </div>
             </div>
@@ -117,14 +118,14 @@
                 </ul>
             </div>
             <div class="col-md-5">
-                <div class="image-box" style="background-color: #DC3545; padding: 20px; border-radius: 5px;">
+                <div class="image-box" style="background-color: #85181D; padding: 20px; border-radius: 5px;">
                     <img src="{{asset('img/25.jpg')}}" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
         <div class="row py-5">
             <div class="col-md-5">
-                <div class="image-box" style="background-color: #DC3545; padding: 20px; border-radius: 5px;">
+                <div class="image-box" style="background-color: #85181D; padding: 20px; border-radius: 5px;">
                     <img src="{{asset('img/25.jpg')}}" class="img-fluid" alt="">
                 </div>
             </div>

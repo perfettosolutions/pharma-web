@@ -5,6 +5,7 @@ namespace App\Http\Controllers\admin;
 use App\Http\Controllers\Controller;
 use App\Models\Inquiry;
 use Illuminate\Http\Request;
+use Yajra\DataTables\Facades\DataTables;
 
 class InquiryController extends Controller
 {
@@ -13,7 +14,13 @@ class InquiryController extends Controller
      */
     public function index()
     {
-        return view ('admin.inquiry.index');
+        return view('admin.inquiry.index');
+    }
+    public function getInquiry()
+    {
+        $inquiries = Inquiry::query(); 
+        return DataTables::of($inquiries)
+            ->make(true);
     }
 
     /**

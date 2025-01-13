@@ -1,7 +1,8 @@
 @extends('visitor.layouts.app')
+@section('title', 'Contact us')
 @section('content')
 <div class="breadcrumb">
-    <h3>Company profile</h3>
+    <h3>Contact us</h3>
 </div>
 <div class="container">
     <div class="row py-5">

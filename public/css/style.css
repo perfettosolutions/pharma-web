@@ -1,4 +1,11 @@
-        .card-container {
+.btn-danger{
+    background-color: #85181D !important;
+    
+}
+.bg-danger{
+    background-color: #85181D !important;
+}
+.card-container {
             display: flex;
             justify-content: space-between;
             margin: 20px 0;
