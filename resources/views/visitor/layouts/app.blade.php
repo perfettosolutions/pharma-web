@@ -223,9 +223,9 @@
                     <li class="nav-item">
                         <a class="nav-link text-white" href="{{ route('profile') }}">Company profile</a>
                     </li>
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link text-white" href="{{ route('contact') }}">Contact</a>
-                    </li>
+                    </li> --}}
 
                 </ul>
             </div>
