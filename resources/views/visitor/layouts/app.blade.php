@@ -270,23 +270,19 @@
                 </div>
                 <div class="col-md-4">
                     <h4>Contact Us</h4>
-                    <p>+91 98 855 83 390 <br />
-                        {{-- +91 999 999 9999 --}}
-                    </p>
+
                     <p>
-                        {{-- admin@admin.com --}}
-                        <br />
-                        naraharimohan@yahoo.com
+
+                        marketing@racandrapharma.com
+
                     </p>
                     <p>
                         Address
 
                     </p>
                     <p>
-
                         10, XCELON INDUSTRIAL PARK-1,<br /> BEHIND INTAS PHARMA,<br /> VASNA-CHACHARWADI,
                         <br />AHMEDABAD - 382213
-
                     </p>
 
                 </div>

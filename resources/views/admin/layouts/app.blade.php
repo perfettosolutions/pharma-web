@@ -32,7 +32,7 @@
 
     <!-- Template Main CSS File -->
     <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
-{{-- toaster --}}
+    {{-- toaster --}}
     <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.js"></script>
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css">
 </head>
@@ -139,7 +139,6 @@
     </main>
     <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">
-
         <div class="credits">
             Develop By <a href="https://flipcodesolutions.com/" target="_bank">Flip code solutions </a>
         </div>
